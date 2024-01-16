@@ -1,0 +1,15 @@
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.csproj.AssemblyReference.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.AssemblyInfoInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.AssemblyInfo.cs
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.csproj.CoreCompileInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\bin\Debug\net6.0\домашняя работа функции.exe
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\bin\Debug\net6.0\домашняя работа функции.deps.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\bin\Debug\net6.0\домашняя работа функции.runtimeconfig.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\bin\Debug\net6.0\домашняя работа функции.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\bin\Debug\net6.0\домашняя работа функции.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\refint\домашняя работа функции.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\домашняя работа функции.genruntimeconfig.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\домашняя работа функции\obj\Debug\net6.0\ref\домашняя работа функции.dll
