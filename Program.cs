@@ -1,41 +1,4 @@
-﻿// Напишите программу, которая бесконечно запрашивает целые числа с консоли. 
-// Программа завершается при вводе символа ‘q’ или при вводе числа, сумма цифр которого чётная.
-
- /*using System;
- 
-class Program
- {
- public static int Main() 
- {
-  while (true)
-  {
-    Console.Write("Введите число или 'q' для выхода: ");
-    string input = Console.ReadLine();
-      if (input == "q");
-  }
-  {
-    break;
-  }
-   }
- 
-
- int number;
- if(int.TryParse(input,out number))
- {
-    int sum = 0;
-    while (number > 0)
- {
-    sum += number % 10;
-    number/= 10;
- }   
- if (sum % 2 == 0)
- {
-    Console.WriteLine("[STOP]");
-    break;
- }
- } */
- 
- 
+﻿ 
 // Подсчет количества четных чисел в массиве !!ЗАДАЧА 2!!
 /*
 using System;
@@ -96,3 +59,41 @@ Console.Write(number + " ");
 }
 }
 */
+
+
+Бесконечный запрос чисел до ввода ‘q’ или числа с четнойсуммой цифр.!! ЗАДАЧА1 !!
+using System;
+class Program
+{
+static void Main()
+{
+while (true) // Бесконечный цикл
+{
+Console.Write("Введите число или 'q' для выхода: ");
+string input = Console.ReadLine(); // Чтение строки ввода пользователя
+if (input == "q") // Проверка на ввод 'q' для выхода
+{
+break;
+}
+int number;
+if (int.TryParse(input, out number)) // Проверка, является ли ввод числом
+{
+int sum = 0;
+while (number > 0) 
+{
+sum += number % 10; 
+number /= 10; 
+}
+if (sum % 2 == 0) 
+{
+Console.WriteLine("[STOP]");
+break;
+}
+}
+else 
+{
+Console.WriteLine("Некорректный ввод. Пожалуйста, введите целое числоили 'q'.");
+}
+}
+}
+}
